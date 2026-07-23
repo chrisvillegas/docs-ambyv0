@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-uis1bo.pulaucuan.sbs/sitemap.xml
